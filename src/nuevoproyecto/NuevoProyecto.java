@@ -24,6 +24,7 @@ public class NuevoProyecto {
         int multiplicacion = numero1 * numero2;
         
         System.out.println("La suma de los numeros es igual a " + suma);
+        System.out.println("El resultado de la multiplicacion es " + multiplicacion);
 
         System.out.println("La resta de los numeros es igual a " + resta);
 
