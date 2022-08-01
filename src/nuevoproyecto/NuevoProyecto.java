@@ -20,7 +20,10 @@ public class NuevoProyecto {
         
         int suma = numero + numero2;
         
+        int multiplicacion = numero * numero2;
+        
         System.out.println("La suma de los numeros es igual a " + suma);
+        System.out.println("La multiplicacion entre los dos numeros es " + multiplicacion);
         
     }
     
