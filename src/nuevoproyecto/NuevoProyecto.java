@@ -16,8 +16,10 @@ public class NuevoProyecto {
     public static void main(String[] args) {
         
         int numero = 10;
+        int numero2 = 15;
         
         System.out.println(numero);
+        System.out.println(numero2);
         
     }
     
