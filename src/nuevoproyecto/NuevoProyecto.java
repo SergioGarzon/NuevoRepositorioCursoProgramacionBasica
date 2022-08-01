@@ -21,8 +21,12 @@ public class NuevoProyecto {
         int suma = numero1 + numero2;
         int resta = numero1 - numero2;
         
+        int multiplicacion = numero1 * numero2;
+        
         System.out.println("La suma de los numeros es igual a " + suma);
+
         System.out.println("La resta de los numeros es igual a " + resta);
+
         
     }
     
