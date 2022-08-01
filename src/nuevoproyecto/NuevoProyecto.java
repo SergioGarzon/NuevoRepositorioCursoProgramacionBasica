@@ -18,8 +18,9 @@ public class NuevoProyecto {
         int numero = 10;
         int numero2 = 15;
         
-        System.out.println(numero);
-        System.out.println(numero2);
+        int suma = numero + numero2;
+        
+        System.out.println("La suma de los numeros es igual a " + suma);
         
     }
     
